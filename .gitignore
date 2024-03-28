@@ -1,4 +1,7 @@
 .gradle
+.idea
+allure-results
+allure-report
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
